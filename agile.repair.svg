@@ -39,9 +39,9 @@
 	.st34{font-family:'Roboto'; text-transform: uppercase; font-weight: bold; font-size: 1.3em;}
 	.st35{font-size:24px;}
 	.st36{letter-spacing:-1;}
-	.st37{font-family:'RobotoSlab-Bold';}
+	.st37{font-family:'Roboto Slab', sans-serif; font-weight: bold;}
 	.st38{font-size:14px;}
-	.st39{font-family:'RobotoSlab-Regular';}
+	.st39{font-family:'Roboto Slab', sans-serif;}
 </style>
 <rect x="88.2" class="st0" width="114.7" height="301.6"/>
 <g id="Layer5">
