@@ -2432,10 +2432,16 @@ l2vskh0gEjN2AMEOgGAHQLADcB2XO0JyPqQYMNg9qACxGMUACHYABDsAgh0AwQ7A5HJHNnAFFQwS
 <g id="Layer3">
 </g>
 
-<text y="170" x="30" class="st34" width="200">
-  <tspan x="12" dy="1em">We&apos;ve been</tspan>
-  <tspan x="12" dy="1em">expecting</tspan>
-  <tspan x="12" dy="1em">you</tspan>
+<text y="200" x="12" class="st34" width="200">
+  We&apos;ve been
+</text>
+
+<text y="218" x="12" class="st34" width="200">
+  expecting
+</text>
+
+<text y="236" x="12" class="st34" width="200">
+  you
 </text>
 
 <text transform="matrix(1 0 0 1 11.9407 24.6518)"><tspan x="0" y="0" class="st37 st38">agile</tspan><tspan x="32.1" y="0" class="st39 st38">.repair</tspan></text>
